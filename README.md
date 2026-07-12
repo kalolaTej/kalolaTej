@@ -103,14 +103,25 @@ A platform to organize coding resources and practice material.
 
 ---
 
-# 🏆 GitHub Trophies
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TejKalola&theme=algolia&no-frame=true&column=4"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/TejKalola/TejKalola/output/github-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/TejKalola/TejKalola/output/github-snake.svg">
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/kalolaTej/kalolaTej/output/github-snake-dark.svg">
+</picture>
 
 </div>
-
 ---
 
 # 📫 Connect With Me
