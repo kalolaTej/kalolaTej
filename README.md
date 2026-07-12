@@ -6,7 +6,7 @@
 
 ### 💻 Competitive Programmer 🎓 B.Tech CSE @ Nirma University
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=800&lines=Codeforces+Pupil+(1619);Full+Stack+Developer;Building+Projects+That+Matter;Learning+Something+New+Every+Day;Problem+Solver+%7C+Continuous+Learner"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=800&lines=Codeforces+Pupil+(1396);Full+Stack+Developer;Building+Projects+That+Matter;Learning+Something+New+Every+Day;Problem+Solver+%7C+Continuous+Learner"/>
 
 <br><br>
 
